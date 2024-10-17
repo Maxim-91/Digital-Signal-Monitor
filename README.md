@@ -57,3 +57,8 @@
 - Verify that all necessary NI-DAQmx drivers are installed and configured.
 - If the program does not respond as expected, check the input signal and the mode selected in the interface.
 
+## Code:
+![image](https://github.com/user-attachments/assets/69dc6eff-e648-4265-882d-a633feef5a00)
+![image](https://github.com/user-attachments/assets/13053c0f-f3cf-48e2-a6cb-e67108ec6bfc)
+![image](https://github.com/user-attachments/assets/19e07906-efef-4a5d-8324-0208f6181d0d)
+![image](https://github.com/user-attachments/assets/953ce1cb-0c89-4ac9-86b3-558a6163595f)
